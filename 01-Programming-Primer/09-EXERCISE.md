@@ -23,3 +23,7 @@
 ## Solution to the exercise
 
 ![solution](../Assets/exercise-solution-01.png)
+
+### Important Links :- 
+
+[MDN `Array.prototype.includes()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
